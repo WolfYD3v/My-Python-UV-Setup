@@ -15,3 +15,4 @@
   * Inside this project folder you can see some scripts from the folder ```wolfy_d3v_scripts```, to install a package for your project run the script ```install_package.sh```. uv will automatically create an environment if needed. ``run.sh``` execute your Python project, while ```update_uv.sh``` will update uv if a new version is out.
 
 ## HAVE FUN, IT'S FREE!
+Custom setup distributed by WolfY_D3v, it's original creator. (yes, I'm egocentric)
