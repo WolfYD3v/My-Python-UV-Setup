@@ -5,6 +5,7 @@
  * Install uv if you haven't, check the [public uv repository (click here)](https://github.com/astral-sh/uv) on Github to install this great tool and start learning it.
  * Download all the files of the repository in the same local folder.
  * And you're done!
+ * If a .sh script cannot be executed you have to chmod it. Here an example of the command: ```chmod +x create_project.sh```. And boom, it can run in your terminal!
 
 
 ## HOW TO USE IT:
